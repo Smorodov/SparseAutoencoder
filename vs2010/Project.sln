@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{BDCF1D67-BE02-4FE8-B81F-C4F13D7DCDE5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1F7346DE-DA33-490E-843C-BEEAB5DCB805} = {1F7346DE-DA33-490E-843C-BEEAB5DCB805}
+		{E0C1FE25-AC3B-4B05-BE53-30A672EB2447} = {E0C1FE25-AC3B-4B05-BE53-30A672EB2447}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SparseAutoencoder", "SparseAutoencoder.vcxproj", "{1F7346DE-DA33-490E-843C-BEEAB5DCB805}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E0C1FE25-AC3B-4B05-BE53-30A672EB2447} = {E0C1FE25-AC3B-4B05-BE53-30A672EB2447}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{E0C1FE25-AC3B-4B05-BE53-30A672EB2447}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCF1D67-BE02-4FE8-B81F-C4F13D7DCDE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDCF1D67-BE02-4FE8-B81F-C4F13D7DCDE5}.Release|Win32.ActiveCfg = Release|Win32
+		{1F7346DE-DA33-490E-843C-BEEAB5DCB805}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F7346DE-DA33-490E-843C-BEEAB5DCB805}.Debug|Win32.Build.0 = Debug|Win32
+		{1F7346DE-DA33-490E-843C-BEEAB5DCB805}.Release|Win32.ActiveCfg = Release|Win32
+		{1F7346DE-DA33-490E-843C-BEEAB5DCB805}.Release|Win32.Build.0 = Release|Win32
+		{E0C1FE25-AC3B-4B05-BE53-30A672EB2447}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0C1FE25-AC3B-4B05-BE53-30A672EB2447}.Debug|Win32.Build.0 = Debug|Win32
+		{E0C1FE25-AC3B-4B05-BE53-30A672EB2447}.Release|Win32.ActiveCfg = Release|Win32
+		{E0C1FE25-AC3B-4B05-BE53-30A672EB2447}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

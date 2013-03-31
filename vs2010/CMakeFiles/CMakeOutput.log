@@ -1,0 +1,129 @@
+The system is: Windows - 6.1 - x86
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2811677625
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec2811677625, Configuration: Debug Win32 ------
+1>Build started 28.03.2013 14:29:38.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec2811677625.dir\Debug\cmTryCompileExec2811677625.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2811677625.dir\Debug\\" /Fd"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2811677625.pdb" /Gd /TC /analyze- /errorReport:prompt testCCompiler.c  /Zm1000 
+1>  
+1>  testCCompiler.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec2811677625.vcxproj -> C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2811677625.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec2811677625.dir\Debug\cmTryCompileExec2811677625.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec2811677625.dir\Debug\cmTryCompileExec2811677625.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.15
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec8565568
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec8565568, Configuration: Debug Win32 ------
+1>Build started 28.03.2013 14:29:40.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec8565568.dir\Debug\cmTryCompileExec8565568.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec8565568.dir\Debug\\" /Fd"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec8565568.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"  /Zm1000 
+1>  
+1>  CMakeCCompilerABI.c
+1>LinkEmbedManifest:
+1>  cmTryCompileExec8565568.vcxproj -> C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec8565568.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec8565568.dir\Debug\cmTryCompileExec8565568.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec8565568.dir\Debug\cmTryCompileExec8565568.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.73
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3728544234
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3728544234, Configuration: Debug Win32 ------
+1>Build started 28.03.2013 14:29:42.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec3728544234.dir\Debug\cmTryCompileExec3728544234.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3728544234.dir\Debug\\" /Fd"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3728544234.pdb" /Gd /TP /analyze- /errorReport:prompt testCXXCompiler.cxx  /Zm1000 
+1>  
+1>  testCXXCompiler.cxx
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3728544234.vcxproj -> C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3728544234.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec3728544234.dir\Debug\cmTryCompileExec3728544234.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec3728544234.dir\Debug\cmTryCompileExec3728544234.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.70
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3965969225
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3965969225, Configuration: Debug Win32 ------
+1>Build started 28.03.2013 14:29:44.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec3965969225.dir\Debug\cmTryCompileExec3965969225.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3965969225.dir\Debug\\" /Fd"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3965969225.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"  /Zm1000 
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3965969225.vcxproj -> C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3965969225.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec3965969225.dir\Debug\cmTryCompileExec3965969225.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec3965969225.dir\Debug\cmTryCompileExec3965969225.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.71
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+

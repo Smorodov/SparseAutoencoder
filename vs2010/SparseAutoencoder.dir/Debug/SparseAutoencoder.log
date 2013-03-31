@@ -1,0 +1,44 @@
+﻿Build started 30.03.2013 23:17:46.
+     1>Project "C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\SparseAutoencoder.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "SparseAutoencoder.dir\Debug\SparseAutoencoder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Ic:/Users/USER/Documents/opencv/opencv/modules/core/include /Ic:/Users/USER/Documents/opencv/opencv/modules/imgproc/include /Ic:/Users/USER/Documents/opencv/opencv/modules/flann/include /Ic:/Users/USER/Documents/opencv/opencv/modules/highgui/include /Ic:/Users/USER/Documents/opencv/opencv/modules/features2d/include /Ic:/Users/USER/Documents/opencv/opencv/modules/calib3d/include /Ic:/Users/USER/Documents/opencv/opencv/modules/ml/include /Ic:/Users/USER/Documents/opencv/opencv/modules/video/include /Ic:/Users/USER/Documents/opencv/opencv/modules/objdetect/include /Ic:/Users/USER/Documents/opencv/opencv/modules/contrib/include /Ic:/Users/USER/Documents/opencv/opencv/modules/nonfree/include /Ic:/Users/USER/Documents/opencv/opencv/modules/photo/include /Ic:/Users/USER/Documents/opencv/opencv/modules/legacy/include /Ic:/Users/USER/Documents/opencv/opencv/modules/gpu/include /Ic:/Users/USER/Documents/opencv/opencv/modules/softcascade/include /Ic:/Users/USER/Documents/opencv/opencv/modules/stitching/include /Ic:/Users/USER/Documents/opencv/opencv/modules/ts/include /Ic:/Users/USER/Documents/opencv/opencv/modules/videostab/include /I"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder" /I"C:/Users/USER/Documents/Visual Studio 2010/Projects/OpenCV_sln32" /Ic:/Users/USER/Documents/opencv/opencv/include /Ic:/Users/USER/Documents/opencv/opencv/include/opencv /I"C:\Users\USER\Documents\Visual Studio 2010\Projects\LBFGS_MINIMIZER\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"SparseAutoencoder.dir\Debug\\" /Fd"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/Debug/SparseAutoencoder.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp  /Zm1000 
+         main.cpp
+     1>..\main.cpp(77): warning C4018: '<' : signed/unsigned mismatch
+     1>..\main.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>..\main.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+     1>..\main.cpp(116): warning C4018: '<' : signed/unsigned mismatch
+     1>..\main.cpp(309): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(310): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(452): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>..\main.cpp(452): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>..\main.cpp(472): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(472): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(473): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(473): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(637): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(641): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(642): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(643): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\Debug\SparseAutoencoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_calib3d249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_contrib249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_core249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_features2d249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_flann249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_gpu249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_highgui249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_imgproc249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_legacy249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_ml249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_nonfree249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_objdetect249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_photo249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_softcascade249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_stitching249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_ts249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_video249d.lib" "C:\Users\USER\Documents\Visual Studio 2010\Projects\OpenCV_sln32\lib\Debug\opencv_videostab249d.lib" "c:\Users\USER\Documents\Visual Studio 2010\Projects\LBFGS_MINIMIZER\Debug\lbfgs_debug.lib" /MANIFEST /ManifestFile:"SparseAutoencoder.dir\Debug\SparseAutoencoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/Debug/SparseAutoencoder.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Documents/Visual Studio 2010/Projects/SparseAutoencoder/vs2010/Debug/SparseAutoencoder.lib" /MACHINE:X86 SparseAutoencoder.dir\Debug\SparseAutoencoder.exe.embed.manifest.res
+         SparseAutoencoder.dir\Debug\main.obj  /machine:X86 /debug 
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"SparseAutoencoder.dir\Debug\SparseAutoencoder.exe.embed.manifest" /manifest SparseAutoencoder.dir\Debug\SparseAutoencoder.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         SparseAutoencoder.vcxproj -> C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\Debug\SparseAutoencoder.exe
+       FinalizeBuildStatus:
+         Deleting file "SparseAutoencoder.dir\Debug\SparseAutoencoder.unsuccessfulbuild".
+         Touching "SparseAutoencoder.dir\Debug\SparseAutoencoder.lastbuildstate".
+     1>Done Building Project "C:\Users\USER\Documents\Visual Studio 2010\Projects\SparseAutoencoder\vs2010\SparseAutoencoder.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.32
